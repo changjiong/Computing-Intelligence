@@ -1,2 +1,0 @@
-# Computing-Intelligence
-nlp learning
